@@ -1,0 +1,1 @@
+Scenario: Select SUV and compare cars ensure the car is selected as expected
